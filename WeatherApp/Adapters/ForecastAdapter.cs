@@ -48,9 +48,9 @@ namespace WeatherApp.Adapters
             view.FindViewById<TextView>(Resource.Id.dayWindTextView).Text = _items[position].wind.speed.ToString() + " m/s";
             return view;
         }
-        public void UpdateData(List<List> items)
+        /*public void UpdateData(List<List> items)
         {
             _items = items;
-        }
+        }*/
     }
 }
