@@ -1,2 +1,2 @@
-# weatherApp made with Xamarin
+# Xamarin weatherApp
 made for a school project
